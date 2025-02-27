@@ -28,3 +28,21 @@ Bu **C# Windows Forms** yordamida yaratilgan oddiy **Kalkulyator** dasturi. U fo
 1. **Loyihani klonlash**  
    ```sh
    git clone https://github.com/jasurhaydarovcode/Calculator-CSharp.git
+   ```
+2. **Loyihani Visual Studio-da oching**
+3. **Dasturiy ta’minotni ishga tushiring**
+   `Ctrl + F5` tugmalarini bosing yoki `Start` tugmasini bosing.
+
+## 📂 Loyihaning Tuzilishi
+```
+CalculatorCSharp/
+│── Properties/
+│── bin/
+│── obj/
+│── Form1.cs
+│── Form1.Designer.cs
+│── Program.cs
+│── Calculator.ico
+│── README.md
+│── CalculatorCSharp.sln
+```

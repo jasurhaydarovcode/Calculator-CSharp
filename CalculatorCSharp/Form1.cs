@@ -18,6 +18,7 @@ namespace CalculatorCSharp
         public Form1()
         {
             InitializeComponent();
+
             // Icon file ni build qilish uchun
             this.Icon = new Icon("Calculator.ico");
         }
