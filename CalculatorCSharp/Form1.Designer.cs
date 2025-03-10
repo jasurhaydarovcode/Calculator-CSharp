@@ -271,7 +271,7 @@ namespace CalculatorCSharp
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(108, 64);
             this.button19.TabIndex = 1;
-            this.button19.Text = ".";
+            this.button19.Text = ",";
             this.button19.UseVisualStyleBackColor = true;
             this.button19.Click += new System.EventHandler(this.button_click);
             // 
