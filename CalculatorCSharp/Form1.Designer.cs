@@ -107,7 +107,7 @@ namespace CalculatorCSharp
             this.button4.BackColor = System.Drawing.Color.OrangeRed;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.8F);
             this.button4.ForeColor = System.Drawing.Color.Transparent;
-            this.button4.Location = new System.Drawing.Point(354, 172);
+            this.button4.Location = new System.Drawing.Point(354, 452);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(108, 64);
             this.button4.TabIndex = 1;
@@ -245,7 +245,7 @@ namespace CalculatorCSharp
             this.button16.BackColor = System.Drawing.Color.OrangeRed;
             this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.8F);
             this.button16.ForeColor = System.Drawing.Color.Transparent;
-            this.button16.Location = new System.Drawing.Point(354, 452);
+            this.button16.Location = new System.Drawing.Point(354, 172);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(108, 64);
             this.button16.TabIndex = 1;
